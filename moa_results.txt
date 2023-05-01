@@ -1,0 +1,399 @@
+1att48.tsp
+
+///// Algoritmos geneticos TESTE: 1att48.tsp /////
+///Caso 1att48.tsp - Inserção mais proximo///
+Best: 33522
+Custo Obtido: 39236.88489845504
+Tempo: 0.2059648036956787
+Numero Interações: 1000
+GAP: 17.048162097891066
+op_cruzamento: CX
+Busca_Local: False
+
+Best: 33522
+Custo Obtido: 39236.88489845504
+Tempo: 0.2910325527191162
+Numero Interações: 1000
+GAP: 17.048162097891066
+op_cruzamento: OX2
+Busca_Local: False
+
+Best: 33522
+Custo Obtido: 30082.65793822784
+Tempo: 0.3110167980194092
+Numero Interações: 48
+GAP: -10.25995484091689
+op_cruzamento: CX
+Busca_Local: True
+
+Best: 33522
+Custo Obtido: 27270.565151534207
+Tempo: 6.4389965534210205
+Numero Interações: 1000
+GAP: -18.648752605649403
+op_cruzamento: OX2
+Busca_Local: True
+
+2kroA100.tsp
+
+///// Algoritmos geneticos TESTE: 2kroA100.tsp /////
+///Caso 2kroA100.tsp - Inserção mais proximo///
+Best: 21282
+Custo Obtido: 26133.451853336515
+Tempo: 0.07699155807495117
+Numero Interações: 171
+GAP: 22.79603351816801
+op_cruzamento: CX
+Busca_Local: False
+
+Best: 21282
+Custo Obtido: 26133.451853336515
+Tempo: 0.6360371112823486
+Numero Interações: 1000
+GAP: 22.79603351816801
+op_cruzamento: OX2
+Busca_Local: False
+
+Best: 21282
+Custo Obtido: 20942.88849512149
+Tempo: 3.1519699096679688
+Numero Interações: 119
+GAP: -1.5934193444155176
+op_cruzamento: CX
+Busca_Local: True
+
+Best: 21282
+Custo Obtido: 22058.311088846232
+Tempo: 31.142988204956055
+Numero Interações: 1000
+GAP: 3.6477355927367374
+op_cruzamento: OX2
+Busca_Local: True
+
+3tsp225.tsp
+
+///// Algoritmos geneticos TESTE: 3tsp225.tsp /////
+///Caso 3tsp225.tsp - Inserção mais proximo///
+Best: 3916
+Custo Obtido: 4652.43216594984
+Tempo: 0.13603520393371582
+Numero Interações: 88
+GAP: 18.805724360312563
+op_cruzamento: CX
+Busca_Local: False
+
+Best: 3916
+Custo Obtido: 4652.43216594984
+Tempo: 1.922971248626709
+Numero Interações: 1000
+GAP: 18.805724360312563
+op_cruzamento: OX2
+Busca_Local: False
+
+Best: 3916
+Custo Obtido: 3932.2076410712325
+Tempo: 9.647037744522095
+Numero Interações: 75
+GAP: 0.41388256055241324
+op_cruzamento: CX
+Busca_Local: True
+
+Best: 3916
+Custo Obtido: 3958.27488591174
+Tempo: 143.81786060333252
+Numero Interações: 1000
+GAP: 1.0795425411578154
+op_cruzamento: OX2
+Busca_Local: True
+
+4pr1002.tsp
+
+///// Algoritmos geneticos TESTE: 4pr1002.tsp /////
+///Caso 4pr1002.tsp - Inserção mais proximo///
+Best: 259045
+Custo Obtido: 312237.2697606546
+Tempo: 2.1279702186584473
+Numero Interações: 208
+GAP: 20.533988210795265
+op_cruzamento: CX
+Busca_Local: False
+
+Best: 259045
+Custo Obtido: 312237.2697606546
+Tempo: 17.040995121002197
+Numero Interações: 1000
+GAP: 20.533988210795265
+op_cruzamento: OX2
+Busca_Local: False
+
+Best: 259045
+Custo Obtido: 269669.89939422184
+Tempo: 572.0372104644775
+Numero Interações: 195
+GAP: 4.101565131240455
+op_cruzamento: CX
+Busca_Local: True
+
+Best: 259045
+Custo Obtido: 266629.8998237621
+Tempo: 2686.640877008438
+Numero Interações: 1000
+GAP: 2.9280240204451453
+op_cruzamento: OX2
+Busca_Local: True
+
+5fnl4461.tsp
+
+///// Algoritmos geneticos TESTE: 5fnl4461.tsp /////
+///Caso 5fnl4461.tsp - Inserção mais proximo///
+Best: 182566
+Custo Obtido: 225248.00220732126
+Tempo: 36.14701247215271
+Numero Interações: 472
+GAP: 23.37894361892207
+op_cruzamento: CX
+Busca_Local: False
+
+Best: 182566
+Custo Obtido: 225248.00220732126
+Tempo: 171.97597479820251
+Numero Interações: 1000
+GAP: 23.37894361892207
+op_cruzamento: OX2
+Busca_Local: False
+
+Best: 182566
+Custo Obtido: 194524.48426186253
+Tempo: 3625.1825358867645
+Numero Interações: 77
+GAP: 6.550225267499165
+op_cruzamento: CX
+Busca_Local: True
+
+Best: 182566
+Custo Obtido: 198253.93676972148
+Tempo: 3627.5418293476105
+Numero Interações: 77
+GAP: 8.593022123353458
+op_cruzamento: OX2
+Busca_Local: True
+
+6pla7397.tsp
+
+///// Algoritmos geneticos TESTE: 6pla7397.tsp /////
+///Caso 6pla7397.tsp - Inserção mais proximo///
+main.py:452: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`).
+  fig, ax = plt.subplots()
+
+Best: 81438
+Custo Obtido: 27694589.913020585
+Tempo: 364.61500215530396
+Numero Interações: 1000
+GAP: 33906.96224492324
+op_cruzamento: CX
+Busca_Local: False
+
+Best: 81438
+Custo Obtido: 27694589.913020585
+Tempo: 441.1899983882904
+Numero Interações: 1000
+GAP: 33906.96224492324
+op_cruzamento: OX2
+Busca_Local: False
+
+Best: 81438
+Custo Obtido: 24270672.58655128
+Tempo: 3641.966991662979
+Numero Interações: 27
+GAP: 29702.638309574497
+op_cruzamento: CX
+Busca_Local: True
+
+Best: 81438
+Custo Obtido: 25803133.05503953
+Tempo: 3695.741901397705
+Numero Interações: 27
+GAP: 31584.389418993014
+op_cruzamento: OX2
+Busca_Local: True
+
+///// Algoritmos geneticos TESTE: brd14051.tsp /////
+///Caso brd14051.tsp - Inserção mais proximo///
+Duração da criação de crm: 2080.9862694740295
+Best: 46985
+Custo Obtido: 572114.526327955
+Tempo: 50.193158864974976
+Numero Interações: 71
+GAP: 1117.6535624730338
+op_cruzamento: CX
+Busca_Local: False
+
+Best: 46985
+Custo Obtido: 572114.526327955
+Tempo: 1483.921065568924
+Numero Interações: 1000
+GAP: 1117.6535624730338
+op_cruzamento: OX2
+Busca_Local: False
+
+Best: 46985
+Custo Obtido: 496530.63614815724
+Tempo: 4200.457357645035
+Numero Interações: 7
+GAP: 956.7854339643658
+op_cruzamento: CX
+Busca_Local: True
+
+Best: 46985
+Custo Obtido: 499730.8665850028
+Tempo: 3787.0911161899567
+Numero Interações: 7
+GAP: 963.5966086729868
+op_cruzamento: OX2
+Busca_Local: True
+
+///Caso d15112.tsp - Inserção mais proximo///
+Duração da criação de crm: 2000.9176635742188
+Best: 1573084
+Custo Obtido: 1937877.0182370613
+Tempo: 1755.803505897522
+Numero Interações: 1000
+GAP: 23.189671895274593
+op_cruzamento: CX
+Busca_Local: False
+
+Best: 1573084
+Custo Obtido: 1937877.0182370613
+Tempo: 3015.7795310020447
+Numero Interações: 1000
+GAP: 23.189671895274593
+op_cruzamento: OX2
+Busca_Local: False
+
+Best: 1573084
+Custo Obtido: 1937877.0182370613
+Tempo: 3656.6864700317383
+Numero Interações: 5
+GAP: 23.189671895274593
+op_cruzamento: CX
+Busca_Local: True
+
+Best: 1573084
+Custo Obtido: 1937877.0182370613
+Tempo: 4033.7496724128723
+Numero Interações: 6
+GAP: 23.189671895274593
+op_cruzamento: OX2
+Busca_Local: True
+
+C:\Users\mathe\Desktop\UEM\6903_01 - MODELAGEM E OTIMIZACAO ALGORITMICA\Trabalho 2\Implementacao>python3 main.py
+d18512.tsp
+
+///// Algoritmos geneticos TESTE: d18512.tsp /////
+///Caso d18512.tsp - Inserção mais proximo///
+Duração da criação de crm: 2706.4530222415924
+Best: 645238
+Custo Obtido: 794121.3344553128
+Tempo: 71.84414291381836
+Numero Interações: 76
+GAP: 23.074173321365574
+op_cruzamento: CX
+Busca_Local: False
+
+Best: 645238
+Custo Obtido: 794121.3344553128
+Tempo: 2309.176716566086
+Numero Interações: 1000
+GAP: 23.074173321365574
+op_cruzamento: OX2
+Busca_Local: False
+
+Best: 645238
+Custo Obtido: 783892.7142225851
+Tempo: 5365.018071651459
+Numero Interações: 3
+GAP: 21.488925671238377
+op_cruzamento: CX
+Busca_Local: True
+
+Best: 645238
+Custo Obtido: 773826.8985989501
+Tempo: 3826.7770285606384
+Numero Interações: 5
+GAP: 19.928909735469723
+op_cruzamento: OX2
+Busca_Local: True
+
+pla33810.tsp
+
+///// Algoritmos geneticos TESTE: pla33810.tsp /////
+///Caso pla33810.tsp - Inserção mais proximo///
+Duração da criação de crm: 8713.687053203583
+Best: 66048945
+Custo Obtido: 77327460.4874914
+Tempo: 291.6394588947296
+Numero Interações: 64
+GAP: 17.075996425819365
+op_cruzamento: CX
+Busca_Local: False
+
+Best: 66048945
+Custo Obtido: 77327460.4874914
+Tempo: 3600.6306874752045
+Numero Interações: 478
+GAP: 17.075996425819365
+op_cruzamento: OX2
+Busca_Local: False
+
+Best: 66048945
+Custo Obtido: 77327460.4874914
+Tempo: 5578.002666711807
+Numero Interações: 2
+GAP: 17.075996425819365
+op_cruzamento: CX
+Busca_Local: True
+
+Best: 66048945
+Custo Obtido: 72511349.4694663
+Tempo: 5949.513174772263
+Numero Interações: 2
+GAP: 9.784266000715528
+op_cruzamento: OX2
+Busca_Local: True
+
+pla85900.tsp
+
+///// Algoritmos geneticos TESTE: pla85900.tsp /////
+///Caso pla85900.tsp - Inserção mais proximo///
+Duração da criação de crm: 59784.60249900818
+Best: 142382641
+Custo Obtido: 163504086.3940075
+Tempo: 991.4156534671783
+Numero Interações: 46
+GAP: 14.834284043100102
+op_cruzamento: CX
+Busca_Local: False
+
+Best: 142382641
+Custo Obtido: 163504086.3940075
+Tempo: 3628.1607217788696
+Numero Interações: 68
+GAP: 14.834284043100102
+op_cruzamento: OX2
+Busca_Local: False
+
+Best: 142382641
+Custo Obtido: 150535568.5210146
+Tempo: 20973.66579437256
+Numero Interações: 1
+GAP: 5.726068475590786
+op_cruzamento: CX
+Busca_Local: True
+
+Best: 142382641
+Custo Obtido: 163504086.3940075
+Tempo: 20144.00056576729
+Numero Interações: 1
+GAP: 14.834284043100102
+op_cruzamento: OX2
+Busca_Local: True
